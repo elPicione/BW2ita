@@ -1,7 +1,7 @@
-Tocca l'icona battaglia\xfffese desideri lottare！
-こうかん　したいひとは\xfffeマークを　タッチして！
-おえかき　したいひとは\xfffeマークを　タッチして！
-ぐるぐるこうかん　したいひとは\xfffeマークを　タッチして！
-Amici
-Giocatori
-ユニオンルームに　はいりました！
+Tocca l'icona Battaglia\xfffese vuoi lottare！
+Tocca l'icona Scambio\xfffese vuoi scambiare！
+Tocca l'icona Disegna\xfffese vuoi disegnare！
+Tocca l'icona Spin Trade\xfffese vuoi fare uno Spin Trade！
+AMICO
+GIOCATORE
+Sono entrato nella Stanza Unione.
